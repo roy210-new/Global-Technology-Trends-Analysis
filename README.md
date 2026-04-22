@@ -24,7 +24,7 @@ The analysis covers programming languages, databases, job market demand, salary 
 
 * **Python** (pandas, matplotlib, seaborn) – data cleaning and analysis
 * **SQL** – data querying and aggregation
-* **Power BI** – dashboard development
+* **Google Data Studio** – dashboard development
 * **Jupyter Notebook** – analysis workflow
 
 ---
@@ -70,7 +70,7 @@ The ecosystem is not rapidly disrupted. Instead, it evolves gradually:
 
 ## Dashboard
 
-The Power BI dashboard provides an interactive view of:
+The Google Data Studio dashboard provides an interactive view of:
 
 * Current technology usage
 * Future technology trends
@@ -78,7 +78,14 @@ The Power BI dashboard provides an interactive view of:
 
 ### Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+1. **Current Technology Usage**
+![Current Technology Usage](images/Current_Technology_Usage.png)
+
+2. **Future Technology Trend**
+![Future Technology Trend](images/Future_Technology_Trends.png)
+
+3. **Demographics**
+![Demographics](images/Demographics.png)
 
 
 ## Methodology
