@@ -1,0 +1,500 @@
+﻿ResponseId,Age,Country,EdLevel,Technology,Category
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Java,Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Kotlin,Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+2,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+3,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+10,35-44 years old,Serbia,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+10,35-44 years old,Serbia,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+10,35-44 years old,Serbia,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+11,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+11,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Crystal,Language
+11,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Java,Language
+11,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+11,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+11,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Ruby,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",C#,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",HTML/CSS,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",JavaScript,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",PowerShell,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Rust,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",SQL,Language
+12,45-54 years old,Poland,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",TypeScript,Language
+19,25-34 years old,Germany,Some college/university study without earning a degree,C#,Language
+19,25-34 years old,Germany,Some college/university study without earning a degree,HTML/CSS,Language
+19,25-34 years old,Germany,Some college/university study without earning a degree,JavaScript,Language
+19,25-34 years old,Germany,Some college/university study without earning a degree,SQL,Language
+23,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+23,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+23,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",F#,Language
+23,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+24,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+24,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+24,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PHP,Language
+24,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+24,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+24,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+27,35-44 years old,Italy,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+27,35-44 years old,Italy,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+27,35-44 years old,Italy,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+27,35-44 years old,Italy,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Scala,Language
+27,35-44 years old,Italy,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Bash/Shell (all shells),Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",C#,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",HTML/CSS,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",JavaScript,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",PHP,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",PowerShell,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Python,Language
+29,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+30,25-34 years old,Philippines,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+30,25-34 years old,Philippines,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+30,25-34 years old,Philippines,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+30,25-34 years old,Philippines,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Kotlin,Language
+30,25-34 years old,Philippines,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+30,25-34 years old,Philippines,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",Bash/Shell (all shells),Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",C#,Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",JavaScript,Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",PHP,Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",Python,Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",SQL,Language
+33,25-34 years old,Brazil,"Associate degree (A.A., A.S., etc.)",TypeScript,Language
+36,25-34 years old,United States of America,Some college/university study without earning a degree,Bash/Shell (all shells),Language
+36,25-34 years old,United States of America,Some college/university study without earning a degree,C#,Language
+36,25-34 years old,United States of America,Some college/university study without earning a degree,HTML/CSS,Language
+36,25-34 years old,United States of America,Some college/university study without earning a degree,Python,Language
+36,25-34 years old,United States of America,Some college/university study without earning a degree,SQL,Language
+37,18-24 years old,Austria,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Bash/Shell (all shells),Language
+37,18-24 years old,Austria,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Java,Language
+37,18-24 years old,Austria,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+39,35-44 years old,France,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",HTML/CSS,Language
+39,35-44 years old,France,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",JavaScript,Language
+39,35-44 years old,France,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Python,Language
+39,35-44 years old,France,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Ruby,Language
+39,35-44 years old,France,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",SQL,Language
+39,35-44 years old,France,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",TypeScript,Language
+41,25-34 years old,Brazil,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Elixir,Language
+41,25-34 years old,Brazil,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+41,25-34 years old,Brazil,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+41,25-34 years old,Brazil,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Ruby,Language
+41,25-34 years old,Brazil,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+41,25-34 years old,Brazil,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Assembly,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C++,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+44,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+45,25-34 years old,Romania,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+45,25-34 years old,Romania,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+45,25-34 years old,Romania,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+45,25-34 years old,Romania,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+45,25-34 years old,Romania,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+46,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Dart,Language
+46,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+46,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+46,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+46,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Bash/Shell (all shells),Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",C#,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Go,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",HTML/CSS,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",JavaScript,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Lua,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Rust,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+52,18-24 years old,United States of America,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Go,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",HTML/CSS,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Java,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",JavaScript,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",PowerShell,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+53,18-24 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+55,25-34 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,JavaScript,Language
+55,25-34 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,Lua,Language
+55,25-34 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,PHP,Language
+55,25-34 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,Python,Language
+55,25-34 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,Rust,Language
+55,25-34 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,TypeScript,Language
+62,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+62,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+62,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+62,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+65,45-54 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Java,Language
+72,45-54 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+72,45-54 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+72,45-54 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PowerShell,Language
+72,45-54 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+72,45-54 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Assembly,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C++,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Clojure,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Elixir,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Erlang,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Fortran,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Lua,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",OCaml,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",R,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Rust,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Scala,Language
+75,55-64 years old,Switzerland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Zig,Language
+78,18-24 years old,Republic of North Macedonia,Some college/university study without earning a degree,Bash/Shell (all shells),Language
+78,18-24 years old,Republic of North Macedonia,Some college/university study without earning a degree,C++,Language
+78,18-24 years old,Republic of North Macedonia,Some college/university study without earning a degree,Dart,Language
+78,18-24 years old,Republic of North Macedonia,Some college/university study without earning a degree,Python,Language
+78,18-24 years old,Republic of North Macedonia,Some college/university study without earning a degree,SQL,Language
+78,18-24 years old,Republic of North Macedonia,Some college/university study without earning a degree,TypeScript,Language
+79,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+79,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+79,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Java,Language
+79,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Kotlin,Language
+79,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Perl,Language
+79,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Bash/Shell (all shells),Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",C#,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Go,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",JavaScript,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",PowerShell,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Python,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Rust,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+87,45-54 years old,United Kingdom of Great Britain and Northern Ireland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Kotlin,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Swift,Language
+111,18-24 years old,Greece,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+113,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+113,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+113,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+113,45-54 years old,Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+114,45-54 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+114,45-54 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",R,Language
+114,45-54 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+119,25-34 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+119,25-34 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+119,25-34 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+119,25-34 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C,Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C++,Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+121,25-34 years old,United Republic of Tanzania,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PowerShell,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",R,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Swift,Language
+122,45-54 years old,Ireland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+125,35-44 years old,Japan,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+125,35-44 years old,Japan,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+125,35-44 years old,Japan,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+125,35-44 years old,Japan,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+125,35-44 years old,Japan,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+127,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Go,Language
+127,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PowerShell,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+129,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+130,35-44 years old,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",C#,Language
+130,35-44 years old,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",HTML/CSS,Language
+130,35-44 years old,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",JavaScript,Language
+130,35-44 years old,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Python,Language
+130,35-44 years old,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+132,25-34 years old,Germany,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+132,25-34 years old,Germany,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+134,18-24 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,Bash/Shell (all shells),Language
+134,18-24 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,C#,Language
+134,18-24 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,HTML/CSS,Language
+134,18-24 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,Java,Language
+134,18-24 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,Python,Language
+134,18-24 years old,United Kingdom of Great Britain and Northern Ireland,Some college/university study without earning a degree,SQL,Language
+138,35-44 years old,Argentina,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+138,35-44 years old,Argentina,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Clojure,Language
+138,35-44 years old,Argentina,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Kotlin,Language
+138,35-44 years old,Argentina,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Bash/Shell (all shells),Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",HTML/CSS,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",JavaScript,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",PHP,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",PowerShell,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Python,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+140,Under 18 years old,Pakistan,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+142,25-34 years old,Italy,Some college/university study without earning a degree,HTML/CSS,Language
+142,25-34 years old,Italy,Some college/university study without earning a degree,JavaScript,Language
+142,25-34 years old,Italy,Some college/university study without earning a degree,Kotlin,Language
+142,25-34 years old,Italy,Some college/university study without earning a degree,PHP,Language
+142,25-34 years old,Italy,Some college/university study without earning a degree,SQL,Language
+142,25-34 years old,Italy,Some college/university study without earning a degree,TypeScript,Language
+150,35-44 years old,Croatia,Some college/university study without earning a degree,Bash/Shell (all shells),Language
+150,35-44 years old,Croatia,Some college/university study without earning a degree,HTML/CSS,Language
+150,35-44 years old,Croatia,Some college/university study without earning a degree,JavaScript,Language
+150,35-44 years old,Croatia,Some college/university study without earning a degree,Python,Language
+150,35-44 years old,Croatia,Some college/university study without earning a degree,Rust,Language
+150,35-44 years old,Croatia,Some college/university study without earning a degree,SQL,Language
+151,25-34 years old,Turkey,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+151,25-34 years old,Turkey,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C++,Language
+151,25-34 years old,Turkey,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+151,25-34 years old,Turkey,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+151,25-34 years old,Turkey,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+151,25-34 years old,Turkey,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PHP,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PowerShell,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Rust,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+156,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Assembly,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Bash/Shell (all shells),Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",C,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",C#,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",C++,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Go,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",HTML/CSS,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Python,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Rust,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Solidity,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",SQL,Language
+158,18-24 years old,United States of America,"Associate degree (A.A., A.S., etc.)",Zig,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Dart,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Kotlin,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Solidity,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Swift,Language
+159,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+163,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+163,25-34 years old,Sri Lanka,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+166,35-44 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+166,35-44 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+166,35-44 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+166,35-44 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+166,35-44 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+173,18-24 years old,Romania,Some college/university study without earning a degree,C#,Language
+173,18-24 years old,Romania,Some college/university study without earning a degree,Go,Language
+173,18-24 years old,Romania,Some college/university study without earning a degree,HTML/CSS,Language
+173,18-24 years old,Romania,Some college/university study without earning a degree,PHP,Language
+173,18-24 years old,Romania,Some college/university study without earning a degree,TypeScript,Language
+176,25-34 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+176,25-34 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+176,25-34 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+176,25-34 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+176,25-34 years old,United States of America,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+181,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+181,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+181,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+181,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+181,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+181,25-34 years old,Portugal,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+182,18-24 years old,Poland,Some college/university study without earning a degree,C#,Language
+182,18-24 years old,Poland,Some college/university study without earning a degree,HTML/CSS,Language
+182,18-24 years old,Poland,Some college/university study without earning a degree,JavaScript,Language
+182,18-24 years old,Poland,Some college/university study without earning a degree,PHP,Language
+182,18-24 years old,Poland,Some college/university study without earning a degree,PowerShell,Language
+182,18-24 years old,Poland,Some college/university study without earning a degree,SQL,Language
+183,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+183,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+185,35-44 years old,Hungary,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Rust,Language
+185,35-44 years old,Hungary,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+189,25-34 years old,Canada,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Dart,Language
+189,25-34 years old,Canada,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+189,25-34 years old,Canada,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+190,35-44 years old,Czech Republic,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",C#,Language
+190,35-44 years old,Czech Republic,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",SQL,Language
+190,35-44 years old,Czech Republic,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+191,55-64 years old,Canada,Some college/university study without earning a degree,C#,Language
+191,55-64 years old,Canada,Some college/university study without earning a degree,HTML/CSS,Language
+191,55-64 years old,Canada,Some college/university study without earning a degree,JavaScript,Language
+191,55-64 years old,Canada,Some college/university study without earning a degree,Python,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,C#,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,C++,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,Go,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,Java,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,JavaScript,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,PowerShell,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,Rust,Language
+192,35-44 years old,Bulgaria,Some college/university study without earning a degree,SQL,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Dart,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PHP,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+196,25-34 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+200,45-54 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+200,45-54 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+200,45-54 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+200,45-54 years old,India,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,Clojure,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,Haskell,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,HTML/CSS,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,JavaScript,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,Lua,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,Python,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,Rust,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,SQL,Language
+205,25-34 years old,United States of America,Some college/university study without earning a degree,TypeScript,Language
+208,18-24 years old,France,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+208,18-24 years old,France,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+208,18-24 years old,France,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+208,18-24 years old,France,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PowerShell,Language
+208,18-24 years old,France,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+209,25-34 years old,Netherlands,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+209,25-34 years old,Netherlands,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+210,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+210,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+210,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+210,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+210,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+211,25-34 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+211,25-34 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+211,25-34 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+212,55-64 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+212,55-64 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+212,55-64 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PHP,Language
+212,55-64 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+215,35-44 years old,Dominican Republic,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Elixir,Language
+215,35-44 years old,Dominican Republic,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Go,Language
+215,35-44 years old,Dominican Republic,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",JavaScript,Language
+215,35-44 years old,Dominican Republic,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",Kotlin,Language
+215,35-44 years old,Dominican Republic,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",TypeScript,Language
+216,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+216,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+216,25-34 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+218,25-34 years old,Brazil,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",C#,Language
+218,25-34 years old,Brazil,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Solidity,Language
+218,25-34 years old,Brazil,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+223,35-44 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+223,35-44 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C++,Language
+223,35-44 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+223,35-44 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+223,35-44 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+223,35-44 years old,France,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+226,25-34 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Bash/Shell (all shells),Language
+226,25-34 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Go,Language
+226,25-34 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",HTML/CSS,Language
+226,25-34 years old,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",TypeScript,Language
+230,45-54 years old,United States of America,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",TypeScript,Language
+235,35-44 years old,India,Some college/university study without earning a degree,Bash/Shell (all shells),Language
+235,35-44 years old,India,Some college/university study without earning a degree,Go,Language
+235,35-44 years old,India,Some college/university study without earning a degree,Java,Language
+235,35-44 years old,India,Some college/university study without earning a degree,JavaScript,Language
+235,35-44 years old,India,Some college/university study without earning a degree,Rust,Language
+235,35-44 years old,India,Some college/university study without earning a degree,SQL,Language
+235,35-44 years old,India,Some college/university study without earning a degree,TypeScript,Language
+238,35-44 years old,Poland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+238,35-44 years old,Poland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+238,35-44 years old,Poland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+238,35-44 years old,Poland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+238,35-44 years old,Poland,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+242,45-54 years old,United States of America,Some college/university study without earning a degree,JavaScript,Language
+242,45-54 years old,United States of America,Some college/university study without earning a degree,PHP,Language
+242,45-54 years old,United States of America,Some college/university study without earning a degree,SQL,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Java,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PHP,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PowerShell,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+243,18-24 years old,Morocco,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+254,35-44 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+254,35-44 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+254,35-44 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+254,35-44 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PowerShell,Language
+254,35-44 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+254,35-44 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+256,35-44 years old,Brazil,Some college/university study without earning a degree,Bash/Shell (all shells),Language
+256,35-44 years old,Brazil,Some college/university study without earning a degree,Go,Language
+256,35-44 years old,Brazil,Some college/university study without earning a degree,Python,Language
+256,35-44 years old,Brazil,Some college/university study without earning a degree,Rust,Language
+262,35-44 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+262,35-44 years old,Sweden,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Bash/Shell (all shells),Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",C#,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Dart,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",HTML/CSS,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",JavaScript,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PHP,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",PowerShell,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Python,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",Rust,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",SQL,Language
+263,35-44 years old,Austria,"Masterâ€™s degree (M.A., M.S., M.Eng., MBA, etc.)",TypeScript,Language
+274,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+274,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Java,Language
+274,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PowerShell,Language
+274,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+274,45-54 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+275,18-24 years old,Russian Federation,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+275,18-24 years old,Russian Federation,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+276,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+276,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+276,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",PowerShell,Language
+276,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+276,25-34 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Java,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Kotlin,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+280,35-44 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+281,25-34 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+281,25-34 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",C#,Language
+281,25-34 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+281,25-34 years old,Switzerland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Elixir,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Lua,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+284,18-24 years old,Tunisia,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Zig,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Go,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",HTML/CSS,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",JavaScript,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Rust,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",SQL,Language
+285,35-44 years old,United Kingdom of Great Britain and Northern Ireland,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",TypeScript,Language
+293,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Bash/Shell (all shells),Language
+293,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Perl,Language
+293,55-64 years old,United States of America,"Bachelorâ€™s degree (B.A., B.S., B.Eng., etc.)",Python,Language
